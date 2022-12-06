@@ -1,0 +1,4761 @@
+[{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Darwin",
+        "timezone": "Australia\/Darwin",
+        "iata": "DRW",
+        "icao": "YPDN",
+        "terminal": null,
+        "gate": null,
+        "delay": 50,
+        "scheduled": "2022-11-17T00:10:00+00:00",
+        "estimated": "2022-11-17T00:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Kingsford Smith",
+        "timezone": "Australia\/Sydney",
+        "iata": "SYD",
+        "icao": "YSSY",
+        "terminal": "2",
+        "gate": "A49",
+        "baggage": "D4",
+        "delay": null,
+        "scheduled": "2022-11-17T06:10:00+00:00",
+        "estimated": "2022-11-17T06:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Qantas",
+        "iata": "QF",
+        "icao": "QFA"
+    },
+    "flight": {
+        "number": "5671",
+        "iata": "QF5671",
+        "icao": "QFA5671",
+        "codeshared": {
+            "airline_name": "jetstar",
+            "airline_iata": "jq",
+            "airline_icao": "jst",
+            "flight_number": "671",
+            "flight_iata": "jq671",
+            "flight_icao": "jst671"
+        }
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Dalian",
+        "timezone": "Asia\/Shanghai",
+        "iata": "DLC",
+        "icao": "ZYTL",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:05:00+00:00",
+        "estimated": "2022-11-17T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Kansai International",
+        "timezone": "Asia\/Tokyo",
+        "iata": "KIX",
+        "icao": "RJBB",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T02:20:00+00:00",
+        "estimated": "2022-11-17T02:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "China Postal Airlines",
+        "iata": "CF",
+        "icao": "CYZ"
+    },
+    "flight": {
+        "number": "241",
+        "iata": "CF241",
+        "icao": "CYZ241",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Kansai International",
+        "timezone": "Asia\/Tokyo",
+        "iata": "KIX",
+        "icao": "RJBB",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T01:00:00+00:00",
+        "estimated": "2022-11-17T01:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Shenzhen",
+        "timezone": "Asia\/Shanghai",
+        "iata": "SZX",
+        "icao": "ZGSZ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T05:35:00+00:00",
+        "estimated": "2022-11-17T05:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "China Postal Airlines",
+        "iata": "CF",
+        "icao": "CYZ"
+    },
+    "flight": {
+        "number": "218",
+        "iata": "CF218",
+        "icao": "CYZ218",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Kansai International",
+        "timezone": "Asia\/Tokyo",
+        "iata": "KIX",
+        "icao": "RJBB",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:30:00+00:00",
+        "estimated": "2022-11-17T00:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Shuangliu",
+        "timezone": "Asia\/Shanghai",
+        "iata": "CTU",
+        "icao": "ZUUU",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T05:40:00+00:00",
+        "estimated": "2022-11-17T05:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "YTO Cargo Airlines",
+        "iata": "YG",
+        "icao": "HYT"
+    },
+    "flight": {
+        "number": "9004",
+        "iata": "YG9004",
+        "icao": "HYT9004",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Darwin",
+        "timezone": "Australia\/Darwin",
+        "iata": "DRW",
+        "icao": "YPDN",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:50:00+00:00",
+        "estimated": "2022-11-17T00:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Kingsford Smith",
+        "timezone": "Australia\/Sydney",
+        "iata": "SYD",
+        "icao": "YSSY",
+        "terminal": "2",
+        "gate": "41",
+        "baggage": "D3",
+        "delay": null,
+        "scheduled": "2022-11-17T07:00:00+00:00",
+        "estimated": "2022-11-17T07:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Qatar Airways",
+        "iata": "QR",
+        "icao": "QTR"
+    },
+    "flight": {
+        "number": "7114",
+        "iata": "QR7114",
+        "icao": "QTR7114",
+        "codeshared": {
+            "airline_name": "virgin australia",
+            "airline_iata": "va",
+            "airline_icao": "voz",
+            "flight_number": "1348",
+            "flight_iata": "va1348",
+            "flight_icao": "voz1348"
+        }
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": null,
+        "timezone": null,
+        "iata": "ENI",
+        "icao": "RPEN",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:35:00+00:00",
+        "estimated": "2022-11-17T00:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Ninoy Aquino International",
+        "timezone": "Asia\/Manila",
+        "iata": "MNL",
+        "icao": "RPLL",
+        "terminal": "4",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T02:05:00+00:00",
+        "estimated": "2022-11-17T02:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "AirSWIFT",
+        "iata": "T6",
+        "icao": "ATX"
+    },
+    "flight": {
+        "number": "149",
+        "iata": "T6149",
+        "icao": "ATX149",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Weihai",
+        "timezone": "Asia\/Shanghai",
+        "iata": "WEH",
+        "icao": "ZSWH",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:05:00+00:00",
+        "estimated": "2022-11-17T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Kansai International",
+        "timezone": "Asia\/Tokyo",
+        "iata": "KIX",
+        "icao": "RJBB",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T03:55:00+00:00",
+        "estimated": "2022-11-17T03:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Tianjin Air Cargo",
+        "iata": "HT",
+        "icao": "CTJ"
+    },
+    "flight": {
+        "number": "3811",
+        "iata": "HT3811",
+        "icao": "CTJ3811",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Weihai",
+        "timezone": "Asia\/Shanghai",
+        "iata": "WEH",
+        "icao": "ZSWH",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:05:00+00:00",
+        "estimated": "2022-11-17T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Narita International Airport",
+        "timezone": "Asia\/Tokyo",
+        "iata": "NRT",
+        "icao": "RJAA",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T03:30:00+00:00",
+        "estimated": "2022-11-17T03:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Tianjin Air Cargo",
+        "iata": "HT",
+        "icao": "CTJ"
+    },
+    "flight": {
+        "number": "3823",
+        "iata": "HT3823",
+        "icao": "CTJ3823",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Ngurah Rai International",
+        "timezone": "Asia\/Makassar",
+        "iata": "DPS",
+        "icao": "WADD",
+        "terminal": "I",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:05:00+00:00",
+        "estimated": "2022-11-17T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Dubai",
+        "timezone": "Asia\/Dubai",
+        "iata": "DXB",
+        "icao": "OMDB",
+        "terminal": "3",
+        "gate": null,
+        "baggage": "303",
+        "delay": null,
+        "scheduled": "2022-11-17T05:25:00+00:00",
+        "estimated": "2022-11-17T05:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Garuda Indonesia",
+        "iata": "GA",
+        "icao": "GIA"
+    },
+    "flight": {
+        "number": "8855",
+        "iata": "GA8855",
+        "icao": "GIA8855",
+        "codeshared": {
+            "airline_name": "emirates",
+            "airline_iata": "ek",
+            "airline_icao": "uae",
+            "flight_number": "399",
+            "flight_iata": "ek399",
+            "flight_icao": "uae399"
+        }
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Kuala Lumpur International Airport (klia)",
+        "timezone": "Asia\/Kuala_Lumpur",
+        "iata": "KUL",
+        "icao": "WMKK",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:05:00+00:00",
+        "estimated": "2022-11-17T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Zia International",
+        "timezone": "Asia\/Dhaka",
+        "iata": "DAC",
+        "icao": "VGHS",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T02:00:00+00:00",
+        "estimated": "2022-11-17T02:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "AirAsia",
+        "iata": "AK",
+        "icao": "AXM"
+    },
+    "flight": {
+        "number": "79",
+        "iata": "AK79",
+        "icao": "AXM79",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Tullamarine",
+        "timezone": "Australia\/Melbourne",
+        "iata": "MEL",
+        "icao": "YMML",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T01:40:00+00:00",
+        "estimated": "2022-11-17T01:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Auckland International",
+        "timezone": "Pacific\/Auckland",
+        "iata": "AKL",
+        "icao": "NZAA",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T07:20:00+00:00",
+        "estimated": "2022-11-17T07:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Singapore Airlines",
+        "iata": "SQ",
+        "icao": "SIA"
+    },
+    "flight": {
+        "number": "7290",
+        "iata": "SQ7290",
+        "icao": "SIA7290",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Kingsford Smith",
+        "timezone": "Australia\/Sydney",
+        "iata": "SYD",
+        "icao": "YSSY",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T02:00:00+00:00",
+        "estimated": "2022-11-17T02:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Perth International",
+        "timezone": "Australia\/Perth",
+        "iata": "PER",
+        "icao": "YPPH",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T04:05:00+00:00",
+        "estimated": "2022-11-17T04:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Qantas",
+        "iata": "QF",
+        "icao": "QFA"
+    },
+    "flight": {
+        "number": "7349",
+        "iata": "QF7349",
+        "icao": "QFA7349",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Brisbane International",
+        "timezone": "Australia\/Brisbane",
+        "iata": "BNE",
+        "icao": "YBBN",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:45:00+00:00",
+        "estimated": "2022-11-17T00:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Tullamarine",
+        "timezone": "Australia\/Melbourne",
+        "iata": "MEL",
+        "icao": "YMML",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T04:05:00+00:00",
+        "estimated": "2022-11-17T04:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Qantas",
+        "iata": "QF",
+        "icao": "QFA"
+    },
+    "flight": {
+        "number": "7305",
+        "iata": "QF7305",
+        "icao": "QFA7305",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Haneda Airport",
+        "timezone": "Asia\/Tokyo",
+        "iata": "HND",
+        "icao": "RJTT",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:05:00+00:00",
+        "estimated": "2022-11-17T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Singapore Changi",
+        "timezone": "Asia\/Singapore",
+        "iata": "SIN",
+        "icao": "WSSS",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T06:50:00+00:00",
+        "estimated": "2022-11-17T06:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "JAL",
+        "iata": "JL",
+        "icao": "JAL"
+    },
+    "flight": {
+        "number": "35",
+        "iata": "JL35",
+        "icao": "JAL35",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Haneda Airport",
+        "timezone": "Asia\/Tokyo",
+        "iata": "HND",
+        "icao": "RJTT",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:05:00+00:00",
+        "estimated": "2022-11-17T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Suvarnabhumi International",
+        "timezone": "Asia\/Bangkok",
+        "iata": "BKK",
+        "icao": "VTBS",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T05:00:00+00:00",
+        "estimated": "2022-11-17T05:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "JAL",
+        "iata": "JL",
+        "icao": "JAL"
+    },
+    "flight": {
+        "number": "33",
+        "iata": "JL33",
+        "icao": "JAL33",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Taiyuan",
+        "timezone": "Asia\/Shanghai",
+        "iata": "TYN",
+        "icao": "ZBYN",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:05:00+00:00",
+        "estimated": "2022-11-17T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Hangzhou",
+        "timezone": "Asia\/Shanghai",
+        "iata": "HGH",
+        "icao": "ZSHC",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T02:20:00+00:00",
+        "estimated": "2022-11-17T02:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "SF Airlines",
+        "iata": "O3",
+        "icao": "CSS"
+    },
+    "flight": {
+        "number": "7171",
+        "iata": "O37171",
+        "icao": "CSS7171",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Kansai International",
+        "timezone": "Asia\/Tokyo",
+        "iata": "KIX",
+        "icao": "RJBB",
+        "terminal": null,
+        "gate": "E",
+        "delay": null,
+        "scheduled": "2022-11-17T01:50:00+00:00",
+        "estimated": "2022-11-17T01:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Shanghai Pudong International",
+        "timezone": "Asia\/Shanghai",
+        "iata": "PVG",
+        "icao": "ZSPD",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T03:10:00+00:00",
+        "estimated": "2022-11-17T03:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Air China LTD",
+        "iata": "CA",
+        "icao": "CCA"
+    },
+    "flight": {
+        "number": "1064",
+        "iata": "CA1064",
+        "icao": "CCA1064",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Tontouta",
+        "timezone": "Pacific\/Noumea",
+        "iata": "NOU",
+        "icao": "NWWW",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T01:05:00+00:00",
+        "estimated": "2022-11-17T01:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Narita International Airport",
+        "timezone": "Asia\/Tokyo",
+        "iata": "NRT",
+        "icao": "RJAA",
+        "terminal": "1N",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T08:00:00+00:00",
+        "estimated": "2022-11-17T08:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Aircalin",
+        "iata": "SB",
+        "icao": "ACI"
+    },
+    "flight": {
+        "number": "800",
+        "iata": "SB800",
+        "icao": "ACI800",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Tullamarine",
+        "timezone": "Australia\/Melbourne",
+        "iata": "MEL",
+        "icao": "YMML",
+        "terminal": "2",
+        "gate": "3",
+        "delay": null,
+        "scheduled": "2022-11-17T00:40:00+00:00",
+        "estimated": "2022-11-17T00:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Kuala Lumpur International Airport (klia)",
+        "timezone": "Asia\/Kuala_Lumpur",
+        "iata": "KUL",
+        "icao": "WMKK",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T06:00:00+00:00",
+        "estimated": "2022-11-17T06:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Malaysia Airlines",
+        "iata": "MH",
+        "icao": "MAS"
+    },
+    "flight": {
+        "number": "128",
+        "iata": "MH128",
+        "icao": "MAS128",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Tontouta",
+        "timezone": "Pacific\/Noumea",
+        "iata": "NOU",
+        "icao": "NWWW",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T01:05:00+00:00",
+        "estimated": "2022-11-17T01:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Narita International Airport",
+        "timezone": "Asia\/Tokyo",
+        "iata": "NRT",
+        "icao": "RJAA",
+        "terminal": "1N",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T08:00:00+00:00",
+        "estimated": "2022-11-17T08:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "JAL",
+        "iata": "JL",
+        "icao": "JAL"
+    },
+    "flight": {
+        "number": "5370",
+        "iata": "JL5370",
+        "icao": "JAL5370",
+        "codeshared": {
+            "airline_name": "aircalin",
+            "airline_iata": "sb",
+            "airline_icao": "aci",
+            "flight_number": "800",
+            "flight_iata": "sb800",
+            "flight_icao": "aci800"
+        }
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Daguocun",
+        "timezone": "Asia\/Shanghai",
+        "iata": "SJW",
+        "icao": "ZBSJ",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:30:00+00:00",
+        "estimated": "2022-11-17T00:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Suvarnabhumi International",
+        "timezone": "Asia\/Bangkok",
+        "iata": "BKK",
+        "icao": "VTBS",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:55:00+00:00",
+        "estimated": "2022-11-17T00:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "YTO Cargo Airlines",
+        "iata": "YG",
+        "icao": "HYT"
+    },
+    "flight": {
+        "number": "9007",
+        "iata": "YG9007",
+        "icao": "HYT9007",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Xiamen",
+        "timezone": "Asia\/Shanghai",
+        "iata": "XMN",
+        "icao": "ZSAM",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:40:00+00:00",
+        "estimated": "2022-11-17T00:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Nanjing Lukou International Airport",
+        "timezone": "Asia\/Shanghai",
+        "iata": "NKG",
+        "icao": "ZSNJ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T02:30:00+00:00",
+        "estimated": "2022-11-17T02:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "China Postal Airlines",
+        "iata": "CF",
+        "icao": "CYZ"
+    },
+    "flight": {
+        "number": "9065",
+        "iata": "CF9065",
+        "icao": "CYZ9065",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Hohhot",
+        "timezone": "Asia\/Shanghai",
+        "iata": "HET",
+        "icao": "ZBHH",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:10:00+00:00",
+        "estimated": "2022-11-17T00:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Daguocun",
+        "timezone": "Asia\/Shanghai",
+        "iata": "SJW",
+        "icao": "ZBSJ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T01:30:00+00:00",
+        "estimated": "2022-11-17T01:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "China Postal Airlines",
+        "iata": "CF",
+        "icao": "CYZ"
+    },
+    "flight": {
+        "number": "9073",
+        "iata": "CF9073",
+        "icao": "CYZ9073",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Tianjin Binhai International",
+        "timezone": "Asia\/Shanghai",
+        "iata": "TSN",
+        "icao": "ZBTJ",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:05:00+00:00",
+        "estimated": "2022-11-17T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Hangzhou",
+        "timezone": "Asia\/Shanghai",
+        "iata": "HGH",
+        "icao": "ZSHC",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T02:05:00+00:00",
+        "estimated": "2022-11-17T02:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "SF Airlines",
+        "iata": "O3",
+        "icao": "CSS"
+    },
+    "flight": {
+        "number": "7151",
+        "iata": "O37151",
+        "icao": "CSS7151",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Haneda Airport",
+        "timezone": "Asia\/Tokyo",
+        "iata": "HND",
+        "icao": "RJTT",
+        "terminal": "3",
+        "gate": "106",
+        "delay": null,
+        "scheduled": "2022-11-17T01:55:00+00:00",
+        "estimated": "2022-11-17T01:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia\/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T04:35:00+00:00",
+        "estimated": "2022-11-17T04:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Peach Aviation",
+        "iata": "MM",
+        "icao": "APJ"
+    },
+    "flight": {
+        "number": "809",
+        "iata": "MM809",
+        "icao": "APJ809",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Haneda Airport",
+        "timezone": "Asia\/Tokyo",
+        "iata": "HND",
+        "icao": "RJTT",
+        "terminal": "3",
+        "gate": "F",
+        "delay": null,
+        "scheduled": "2022-11-17T01:30:00+00:00",
+        "estimated": "2022-11-17T01:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Ninoy Aquino International",
+        "timezone": "Asia\/Manila",
+        "iata": "MNL",
+        "icao": "RPLL",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T05:30:00+00:00",
+        "estimated": "2022-11-17T05:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "JAL",
+        "iata": "JL",
+        "icao": "JAL"
+    },
+    "flight": {
+        "number": "77",
+        "iata": "JL77",
+        "icao": "JAL77",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Haneda Airport",
+        "timezone": "Asia\/Tokyo",
+        "iata": "HND",
+        "icao": "RJTT",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T01:30:00+00:00",
+        "estimated": "2022-11-17T01:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Tan Son Nhat International",
+        "timezone": "Asia\/Ho_Chi_Minh",
+        "iata": "SGN",
+        "icao": "VVTS",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T05:50:00+00:00",
+        "estimated": "2022-11-17T05:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "JAL",
+        "iata": "JL",
+        "icao": "JAL"
+    },
+    "flight": {
+        "number": "79",
+        "iata": "JL79",
+        "icao": "JAL79",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Nanchang",
+        "timezone": "Asia\/Shanghai",
+        "iata": "KHN",
+        "icao": "ZSCN",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:05:00+00:00",
+        "estimated": "2022-11-17T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Shenzhen",
+        "timezone": "Asia\/Shanghai",
+        "iata": "SZX",
+        "icao": "ZGSZ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T02:00:00+00:00",
+        "estimated": "2022-11-17T02:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "SF Airlines",
+        "iata": "O3",
+        "icao": "CSS"
+    },
+    "flight": {
+        "number": "6971",
+        "iata": "O36971",
+        "icao": "CSS6971",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia\/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": "1",
+        "gate": null,
+        "delay": 10,
+        "scheduled": "2022-11-17T00:15:00+00:00",
+        "estimated": "2022-11-17T00:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Istanbul Airport",
+        "timezone": "Europe\/Istanbul",
+        "iata": "IST",
+        "icao": "LTFM",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T06:20:00+00:00",
+        "estimated": "2022-11-17T06:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Turkish Airlines",
+        "iata": "TK",
+        "icao": "THY"
+    },
+    "flight": {
+        "number": "91",
+        "iata": "TK91",
+        "icao": "THY91",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "cancelled",
+    "departure": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia\/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": "1",
+        "gate": "33",
+        "delay": 60,
+        "scheduled": "2022-11-17T00:20:00+00:00",
+        "estimated": "2022-11-17T00:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Bole International",
+        "timezone": "Africa\/Addis_Ababa",
+        "iata": "ADD",
+        "icao": "HAAB",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T07:20:00+00:00",
+        "estimated": "2022-11-17T07:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "ANA",
+        "iata": "NH",
+        "icao": "ANA"
+    },
+    "flight": {
+        "number": "5341",
+        "iata": "NH5341",
+        "icao": "ANA5341",
+        "codeshared": {
+            "airline_name": "ethiopian airlines",
+            "airline_iata": "et",
+            "airline_icao": "eth",
+            "flight_number": "673",
+            "flight_iata": "et673",
+            "flight_icao": "eth673"
+        }
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Hong Kong International",
+        "timezone": "Asia\/Hong_Kong",
+        "iata": "HKG",
+        "icao": "VHHH",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T01:00:00+00:00",
+        "estimated": "2022-11-17T01:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Taiwan Taoyuan International (Chiang Kai Shek International)",
+        "timezone": "Asia\/Taipei",
+        "iata": "TPE",
+        "icao": "RCTP",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T02:50:00+00:00",
+        "estimated": "2022-11-17T02:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Hong Kong Air Cargo",
+        "iata": "RH",
+        "icao": "HKC"
+    },
+    "flight": {
+        "number": "4568",
+        "iata": "RH4568",
+        "icao": "HKC4568",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Qingdao",
+        "timezone": "Asia\/Shanghai",
+        "iata": "TAO",
+        "icao": "ZSQD",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:05:00+00:00",
+        "estimated": "2022-11-17T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Hangzhou",
+        "timezone": "Asia\/Shanghai",
+        "iata": "HGH",
+        "icao": "ZSHC",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T01:55:00+00:00",
+        "estimated": "2022-11-17T01:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "SF Airlines",
+        "iata": "O3",
+        "icao": "CSS"
+    },
+    "flight": {
+        "number": "6851",
+        "iata": "O36851",
+        "icao": "CSS6851",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Ngurah Rai International",
+        "timezone": "Asia\/Makassar",
+        "iata": "DPS",
+        "icao": "WADD",
+        "terminal": "I",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:05:00+00:00",
+        "estimated": "2022-11-17T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Dubai",
+        "timezone": "Asia\/Dubai",
+        "iata": "DXB",
+        "icao": "OMDB",
+        "terminal": "3",
+        "gate": null,
+        "baggage": "303",
+        "delay": null,
+        "scheduled": "2022-11-17T05:25:00+00:00",
+        "estimated": "2022-11-17T05:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Emirates",
+        "iata": "EK",
+        "icao": "UAE"
+    },
+    "flight": {
+        "number": "399",
+        "iata": "EK399",
+        "icao": "UAE399",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Tullamarine",
+        "timezone": "Australia\/Melbourne",
+        "iata": "MEL",
+        "icao": "YMML",
+        "terminal": "2",
+        "gate": "16",
+        "delay": null,
+        "scheduled": "2022-11-17T00:35:00+00:00",
+        "estimated": "2022-11-17T00:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Singapore Changi",
+        "timezone": "Asia\/Singapore",
+        "iata": "SIN",
+        "icao": "WSSS",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T05:15:00+00:00",
+        "estimated": "2022-11-17T05:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Vistara",
+        "iata": "UK",
+        "icao": "VTI"
+    },
+    "flight": {
+        "number": "8218",
+        "iata": "UK8218",
+        "icao": "VTI8218",
+        "codeshared": {
+            "airline_name": "singapore airlines",
+            "airline_iata": "sq",
+            "airline_icao": "sia",
+            "flight_number": "218",
+            "flight_iata": "sq218",
+            "flight_icao": "sia218"
+        }
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Tullamarine",
+        "timezone": "Australia\/Melbourne",
+        "iata": "MEL",
+        "icao": "YMML",
+        "terminal": "2",
+        "gate": "16",
+        "delay": null,
+        "scheduled": "2022-11-17T00:35:00+00:00",
+        "estimated": "2022-11-17T00:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Singapore Changi",
+        "timezone": "Asia\/Singapore",
+        "iata": "SIN",
+        "icao": "WSSS",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T05:15:00+00:00",
+        "estimated": "2022-11-17T05:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Turkish Airlines",
+        "iata": "TK",
+        "icao": "THY"
+    },
+    "flight": {
+        "number": "9311",
+        "iata": "TK9311",
+        "icao": "THY9311",
+        "codeshared": {
+            "airline_name": "singapore airlines",
+            "airline_iata": "sq",
+            "airline_icao": "sia",
+            "flight_number": "218",
+            "flight_iata": "sq218",
+            "flight_icao": "sia218"
+        }
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Tullamarine",
+        "timezone": "Australia\/Melbourne",
+        "iata": "MEL",
+        "icao": "YMML",
+        "terminal": "2",
+        "gate": "16",
+        "delay": null,
+        "scheduled": "2022-11-17T00:35:00+00:00",
+        "estimated": "2022-11-17T00:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Singapore Changi",
+        "timezone": "Asia\/Singapore",
+        "iata": "SIN",
+        "icao": "WSSS",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T05:15:00+00:00",
+        "estimated": "2022-11-17T05:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "SWISS",
+        "iata": "LX",
+        "icao": "SWR"
+    },
+    "flight": {
+        "number": "9057",
+        "iata": "LX9057",
+        "icao": "SWR9057",
+        "codeshared": {
+            "airline_name": "singapore airlines",
+            "airline_iata": "sq",
+            "airline_icao": "sia",
+            "flight_number": "218",
+            "flight_iata": "sq218",
+            "flight_icao": "sia218"
+        }
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Shanghai Pudong International",
+        "timezone": "Asia\/Shanghai",
+        "iata": "PVG",
+        "icao": "ZSPD",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:05:00+00:00",
+        "estimated": "2022-11-17T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Los Angeles International",
+        "timezone": "America\/Los_Angeles",
+        "iata": "LAX",
+        "icao": "KLAX",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-16T20:30:00+00:00",
+        "estimated": "2022-11-16T20:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "China Southern Airlines",
+        "iata": "CZ",
+        "icao": "CSN"
+    },
+    "flight": {
+        "number": "443",
+        "iata": "CZ443",
+        "icao": "CSN443",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Shanghai Pudong International",
+        "timezone": "Asia\/Shanghai",
+        "iata": "PVG",
+        "icao": "ZSPD",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:05:00+00:00",
+        "estimated": "2022-11-17T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Los Angeles International",
+        "timezone": "America\/Los_Angeles",
+        "iata": "LAX",
+        "icao": "KLAX",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-16T21:00:00+00:00",
+        "estimated": "2022-11-16T21:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Air China LTD",
+        "iata": "CA",
+        "icao": "CCA"
+    },
+    "flight": {
+        "number": "8417",
+        "iata": "CA8417",
+        "icao": "CCA8417",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Shanghai Pudong International",
+        "timezone": "Asia\/Shanghai",
+        "iata": "PVG",
+        "icao": "ZSPD",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:05:00+00:00",
+        "estimated": "2022-11-17T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Shenzhen",
+        "timezone": "Asia\/Shanghai",
+        "iata": "SZX",
+        "icao": "ZGSZ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T02:50:00+00:00",
+        "estimated": "2022-11-17T02:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "SF Airlines",
+        "iata": "O3",
+        "icao": "CSS"
+    },
+    "flight": {
+        "number": "6803",
+        "iata": "O36803",
+        "icao": "CSS6803",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Shanghai Pudong International",
+        "timezone": "Asia\/Shanghai",
+        "iata": "PVG",
+        "icao": "ZSPD",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:05:00+00:00",
+        "estimated": "2022-11-17T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Beijing Capital International",
+        "timezone": "Asia\/Shanghai",
+        "iata": "PEK",
+        "icao": "ZBAA",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T02:40:00+00:00",
+        "estimated": "2022-11-17T02:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "SF Airlines",
+        "iata": "O3",
+        "icao": "CSS"
+    },
+    "flight": {
+        "number": "7114",
+        "iata": "O37114",
+        "icao": "CSS7114",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Auckland International",
+        "timezone": "Pacific\/Auckland",
+        "iata": "AKL",
+        "icao": "NZAA",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T04:10:00+00:00",
+        "estimated": "2022-11-17T04:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Christchurch International",
+        "timezone": "Pacific\/Auckland",
+        "iata": "CHC",
+        "icao": "NZCH",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T05:25:00+00:00",
+        "estimated": "2022-11-17T05:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Qantas",
+        "iata": "QF",
+        "icao": "QFA"
+    },
+    "flight": {
+        "number": "7523",
+        "iata": "QF7523",
+        "icao": "QFA7523",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Fuzhou",
+        "timezone": "Asia\/Shanghai",
+        "iata": "FOC",
+        "icao": "ZSFZ",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:05:00+00:00",
+        "estimated": "2022-11-17T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Hangzhou",
+        "timezone": "Asia\/Shanghai",
+        "iata": "HGH",
+        "icao": "ZSHC",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T01:30:00+00:00",
+        "estimated": "2022-11-17T01:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "SF Airlines",
+        "iata": "O3",
+        "icao": "CSS"
+    },
+    "flight": {
+        "number": "6871",
+        "iata": "O36871",
+        "icao": "CSS6871",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Lanzhou Zhongchuan Airport",
+        "timezone": null,
+        "iata": "LHW",
+        "icao": "ZLLL",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:05:00+00:00",
+        "estimated": "2022-11-17T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Nanjing Lukou International Airport",
+        "timezone": "Asia\/Shanghai",
+        "iata": "NKG",
+        "icao": "ZSNJ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T02:45:00+00:00",
+        "estimated": "2022-11-17T02:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "China Postal Airlines",
+        "iata": "CF",
+        "icao": "CYZ"
+    },
+    "flight": {
+        "number": "9001",
+        "iata": "CF9001",
+        "icao": "CYZ9001",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia\/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": "2",
+        "gate": null,
+        "delay": 10,
+        "scheduled": "2022-11-17T00:20:00+00:00",
+        "estimated": "2022-11-17T00:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Schiphol",
+        "timezone": "Europe\/Amsterdam",
+        "iata": "AMS",
+        "icao": "EHAM",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T06:10:00+00:00",
+        "estimated": "2022-11-17T06:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "KLM",
+        "iata": "KL",
+        "icao": "KLM"
+    },
+    "flight": {
+        "number": "858",
+        "iata": "KL858",
+        "icao": "KLM858",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "cancelled",
+    "departure": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia\/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": "1",
+        "gate": "33",
+        "delay": 60,
+        "scheduled": "2022-11-17T00:20:00+00:00",
+        "estimated": "2022-11-17T00:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Bole International",
+        "timezone": "Africa\/Addis_Ababa",
+        "iata": "ADD",
+        "icao": "HAAB",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T07:20:00+00:00",
+        "estimated": "2022-11-17T07:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Ethiopian Airlines",
+        "iata": "ET",
+        "icao": "ETH"
+    },
+    "flight": {
+        "number": "673",
+        "iata": "ET673",
+        "icao": "ETH673",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "cancelled",
+    "departure": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia\/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": "1",
+        "gate": "33",
+        "delay": 60,
+        "scheduled": "2022-11-17T00:20:00+00:00",
+        "estimated": "2022-11-17T00:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Bole International",
+        "timezone": "Africa\/Addis_Ababa",
+        "iata": "ADD",
+        "icao": "HAAB",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T07:20:00+00:00",
+        "estimated": "2022-11-17T07:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Asiana Airlines",
+        "iata": "OZ",
+        "icao": "AAR"
+    },
+    "flight": {
+        "number": "9760",
+        "iata": "OZ9760",
+        "icao": "AAR9760",
+        "codeshared": {
+            "airline_name": "ethiopian airlines",
+            "airline_iata": "et",
+            "airline_icao": "eth",
+            "flight_number": "673",
+            "flight_iata": "et673",
+            "flight_icao": "eth673"
+        }
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Yantai",
+        "timezone": "Asia\/Shanghai",
+        "iata": "YNT",
+        "icao": "ZSYT",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:05:00+00:00",
+        "estimated": "2022-11-17T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia\/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T02:30:00+00:00",
+        "estimated": "2022-11-17T02:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Longhao Airlines",
+        "iata": "GI",
+        "icao": "LHA"
+    },
+    "flight": {
+        "number": "4237",
+        "iata": "GI4237",
+        "icao": "LHA4237",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Jinjiang",
+        "timezone": "Asia\/Shanghai",
+        "iata": "JJN",
+        "icao": "ZSQZ",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:05:00+00:00",
+        "estimated": "2022-11-17T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Hangzhou",
+        "timezone": "Asia\/Shanghai",
+        "iata": "HGH",
+        "icao": "ZSHC",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T01:30:00+00:00",
+        "estimated": "2022-11-17T01:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "SF Airlines",
+        "iata": "O3",
+        "icao": "CSS"
+    },
+    "flight": {
+        "number": "6895",
+        "iata": "O36895",
+        "icao": "CSS6895",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Nanning",
+        "timezone": "Asia\/Shanghai",
+        "iata": "NNG",
+        "icao": "ZGNN",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:05:00+00:00",
+        "estimated": "2022-11-17T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Chhatrapati Shivaji International (Sahar International)",
+        "timezone": "Asia\/Kolkata",
+        "iata": "BOM",
+        "icao": "VABB",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T02:25:00+00:00",
+        "estimated": "2022-11-17T02:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "SF Airlines",
+        "iata": "O3",
+        "icao": "CSS"
+    },
+    "flight": {
+        "number": "7633",
+        "iata": "O37633",
+        "icao": "CSS7633",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Darwin",
+        "timezone": "Australia\/Darwin",
+        "iata": "DRW",
+        "icao": "YPDN",
+        "terminal": null,
+        "gate": "9",
+        "delay": null,
+        "scheduled": "2022-11-17T01:45:00+00:00",
+        "estimated": "2022-11-17T01:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Brisbane International",
+        "timezone": "Australia\/Brisbane",
+        "iata": "BNE",
+        "icao": "YBBN",
+        "terminal": "D",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T06:10:00+00:00",
+        "estimated": "2022-11-17T06:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Emirates",
+        "iata": "EK",
+        "icao": "UAE"
+    },
+    "flight": {
+        "number": "5356",
+        "iata": "EK5356",
+        "icao": "UAE5356",
+        "codeshared": {
+            "airline_name": "qantas",
+            "airline_iata": "qf",
+            "airline_icao": "qfa",
+            "flight_number": "827",
+            "flight_iata": "qf827",
+            "flight_icao": "qfa827"
+        }
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Darwin",
+        "timezone": "Australia\/Darwin",
+        "iata": "DRW",
+        "icao": "YPDN",
+        "terminal": null,
+        "gate": "9",
+        "delay": null,
+        "scheduled": "2022-11-17T01:45:00+00:00",
+        "estimated": "2022-11-17T01:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Brisbane International",
+        "timezone": "Australia\/Brisbane",
+        "iata": "BNE",
+        "icao": "YBBN",
+        "terminal": "D",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T06:10:00+00:00",
+        "estimated": "2022-11-17T06:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Air New Zealand",
+        "iata": "NZ",
+        "icao": "ANZ"
+    },
+    "flight": {
+        "number": "7106",
+        "iata": "NZ7106",
+        "icao": "ANZ7106",
+        "codeshared": {
+            "airline_name": "qantas",
+            "airline_iata": "qf",
+            "airline_icao": "qfa",
+            "flight_number": "827",
+            "flight_iata": "qf827",
+            "flight_icao": "qfa827"
+        }
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Darwin",
+        "timezone": "Australia\/Darwin",
+        "iata": "DRW",
+        "icao": "YPDN",
+        "terminal": null,
+        "gate": "9",
+        "delay": null,
+        "scheduled": "2022-11-17T01:45:00+00:00",
+        "estimated": "2022-11-17T01:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Brisbane International",
+        "timezone": "Australia\/Brisbane",
+        "iata": "BNE",
+        "icao": "YBBN",
+        "terminal": "D",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T06:10:00+00:00",
+        "estimated": "2022-11-17T06:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "American Airlines",
+        "iata": "AA",
+        "icao": "AAL"
+    },
+    "flight": {
+        "number": "7297",
+        "iata": "AA7297",
+        "icao": "AAL7297",
+        "codeshared": {
+            "airline_name": "qantas",
+            "airline_iata": "qf",
+            "airline_icao": "qfa",
+            "flight_number": "827",
+            "flight_iata": "qf827",
+            "flight_icao": "qfa827"
+        }
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Darwin",
+        "timezone": "Australia\/Darwin",
+        "iata": "DRW",
+        "icao": "YPDN",
+        "terminal": null,
+        "gate": "9",
+        "delay": null,
+        "scheduled": "2022-11-17T01:45:00+00:00",
+        "estimated": "2022-11-17T01:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Brisbane International",
+        "timezone": "Australia\/Brisbane",
+        "iata": "BNE",
+        "icao": "YBBN",
+        "terminal": "D",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T06:10:00+00:00",
+        "estimated": "2022-11-17T06:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Qantas",
+        "iata": "QF",
+        "icao": "QFA"
+    },
+    "flight": {
+        "number": "827",
+        "iata": "QF827",
+        "icao": "QFA827",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Jeju Airport",
+        "timezone": "Asia\/Seoul",
+        "iata": "CJU",
+        "icao": "RKPC",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:55:00+00:00",
+        "estimated": "2022-11-17T00:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Cheongju",
+        "timezone": "Asia\/Seoul",
+        "iata": "CJJ",
+        "icao": "RKTU",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T02:00:00+00:00",
+        "estimated": "2022-11-17T02:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Aero K",
+        "iata": "RF",
+        "icao": "EOK"
+    },
+    "flight": {
+        "number": "602",
+        "iata": "RF602",
+        "icao": "EOK602",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Ngurah Rai International",
+        "timezone": "Asia\/Makassar",
+        "iata": "DPS",
+        "icao": "WADD",
+        "terminal": "I",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:45:00+00:00",
+        "estimated": "2022-11-17T00:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Ninoy Aquino International",
+        "timezone": "Asia\/Manila",
+        "iata": "MNL",
+        "icao": "RPLL",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T04:45:00+00:00",
+        "estimated": "2022-11-17T04:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Garuda Indonesia",
+        "iata": "GA",
+        "icao": "GIA"
+    },
+    "flight": {
+        "number": "9139",
+        "iata": "GA9139",
+        "icao": "GIA9139",
+        "codeshared": {
+            "airline_name": "philippine airlines",
+            "airline_iata": "pr",
+            "airline_icao": "pal",
+            "flight_number": "538",
+            "flight_iata": "pr538",
+            "flight_icao": "pal538"
+        }
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Ngurah Rai International",
+        "timezone": "Asia\/Makassar",
+        "iata": "DPS",
+        "icao": "WADD",
+        "terminal": "I",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:45:00+00:00",
+        "estimated": "2022-11-17T00:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Ninoy Aquino International",
+        "timezone": "Asia\/Manila",
+        "iata": "MNL",
+        "icao": "RPLL",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T04:45:00+00:00",
+        "estimated": "2022-11-17T04:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Philippine Airlines",
+        "iata": "PR",
+        "icao": "PAL"
+    },
+    "flight": {
+        "number": "538",
+        "iata": "PR538",
+        "icao": "PAL538",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Ngurah Rai International",
+        "timezone": "Asia\/Makassar",
+        "iata": "DPS",
+        "icao": "WADD",
+        "terminal": "I",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T01:05:00+00:00",
+        "estimated": "2022-11-17T01:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia\/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T09:20:00+00:00",
+        "estimated": "2022-11-17T09:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Garuda Indonesia",
+        "iata": "GA",
+        "icao": "GIA"
+    },
+    "flight": {
+        "number": "9964",
+        "iata": "GA9964",
+        "icao": "GIA9964",
+        "codeshared": {
+            "airline_name": "korean air",
+            "airline_iata": "ke",
+            "airline_icao": "kal",
+            "flight_number": "630",
+            "flight_iata": "ke630",
+            "flight_icao": "kal630"
+        }
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Ngurah Rai International",
+        "timezone": "Asia\/Makassar",
+        "iata": "DPS",
+        "icao": "WADD",
+        "terminal": "I",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:50:00+00:00",
+        "estimated": "2022-11-17T00:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Doha International",
+        "timezone": "Asia\/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T05:40:00+00:00",
+        "estimated": "2022-11-17T05:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Oman Air",
+        "iata": "WY",
+        "icao": "OMA"
+    },
+    "flight": {
+        "number": "6424",
+        "iata": "WY6424",
+        "icao": "OMA6424",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Ngurah Rai International",
+        "timezone": "Asia\/Makassar",
+        "iata": "DPS",
+        "icao": "WADD",
+        "terminal": "I",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T01:05:00+00:00",
+        "estimated": "2022-11-17T01:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia\/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T09:20:00+00:00",
+        "estimated": "2022-11-17T09:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Delta Air Lines",
+        "iata": "DL",
+        "icao": "DAL"
+    },
+    "flight": {
+        "number": "7873",
+        "iata": "DL7873",
+        "icao": "DAL7873",
+        "codeshared": {
+            "airline_name": "korean air",
+            "airline_iata": "ke",
+            "airline_icao": "kal",
+            "flight_number": "630",
+            "flight_iata": "ke630",
+            "flight_icao": "kal630"
+        }
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Ngurah Rai International",
+        "timezone": "Asia\/Makassar",
+        "iata": "DPS",
+        "icao": "WADD",
+        "terminal": "I",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T01:05:00+00:00",
+        "estimated": "2022-11-17T01:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia\/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T09:20:00+00:00",
+        "estimated": "2022-11-17T09:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Korean Air",
+        "iata": "KE",
+        "icao": "KAL"
+    },
+    "flight": {
+        "number": "630",
+        "iata": "KE630",
+        "icao": "KAL630",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Daguocun",
+        "timezone": "Asia\/Shanghai",
+        "iata": "SJW",
+        "icao": "ZBSJ",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:10:00+00:00",
+        "estimated": "2022-11-17T00:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Nanjing Lukou International Airport",
+        "timezone": "Asia\/Shanghai",
+        "iata": "NKG",
+        "icao": "ZSNJ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T01:55:00+00:00",
+        "estimated": "2022-11-17T01:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "China Postal Airlines",
+        "iata": "CF",
+        "icao": "CYZ"
+    },
+    "flight": {
+        "number": "9005",
+        "iata": "CF9005",
+        "icao": "CYZ9005",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Chu-Bu Centrair International (Central Japan International)",
+        "timezone": "Asia\/Tokyo",
+        "iata": "NGO",
+        "icao": "RJGG",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T01:45:00+00:00",
+        "estimated": "2022-11-17T01:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia\/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T03:35:00+00:00",
+        "estimated": "2022-11-17T03:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Polar Air Cargo",
+        "iata": "PO",
+        "icao": "PAC"
+    },
+    "flight": {
+        "number": "224",
+        "iata": "PO224",
+        "icao": "PAC224",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Shenyang",
+        "timezone": "Asia\/Shanghai",
+        "iata": "SHE",
+        "icao": "ZYTX",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:40:00+00:00",
+        "estimated": "2022-11-17T00:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Dalian",
+        "timezone": "Asia\/Shanghai",
+        "iata": "DLC",
+        "icao": "ZYTL",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T01:50:00+00:00",
+        "estimated": "2022-11-17T01:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "China Postal Airlines",
+        "iata": "CF",
+        "icao": "CYZ"
+    },
+    "flight": {
+        "number": "9063",
+        "iata": "CF9063",
+        "icao": "CYZ9063",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia\/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T01:30:00+00:00",
+        "estimated": "2022-11-17T01:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Cincinnati\/Northern Kentucky",
+        "timezone": "America\/New_York",
+        "iata": "CVG",
+        "icao": "KCVG",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T01:35:00+00:00",
+        "estimated": "2022-11-17T01:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Polar Air Cargo",
+        "iata": "PO",
+        "icao": "PAC"
+    },
+    "flight": {
+        "number": "276",
+        "iata": "PO276",
+        "icao": "PAC276",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia\/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T01:45:00+00:00",
+        "estimated": "2022-11-17T01:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Duong Dong",
+        "timezone": "Asia\/Ho_Chi_Minh",
+        "iata": "PQC",
+        "icao": "VVPQ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T05:35:00+00:00",
+        "estimated": "2022-11-17T05:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": null,
+        "iata": "H1",
+        "icao": "H1"
+    },
+    "flight": {
+        "number": "4540",
+        "iata": "H14540",
+        "icao": "H14540",
+        "codeshared": {
+            "airline_name": "vietjet air",
+            "airline_iata": "vj",
+            "airline_icao": "vjc",
+            "flight_number": "975",
+            "flight_iata": "vj975",
+            "flight_icao": "vjc975"
+        }
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia\/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T01:45:00+00:00",
+        "estimated": "2022-11-17T01:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Duong Dong",
+        "timezone": "Asia\/Ho_Chi_Minh",
+        "iata": "PQC",
+        "icao": "VVPQ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T05:35:00+00:00",
+        "estimated": "2022-11-17T05:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "FlexFlight",
+        "iata": "W2",
+        "icao": "FXT"
+    },
+    "flight": {
+        "number": "4975",
+        "iata": "W24975",
+        "icao": "FXT4975",
+        "codeshared": {
+            "airline_name": "vietjet air",
+            "airline_iata": "vj",
+            "airline_icao": "vjc",
+            "flight_number": "975",
+            "flight_iata": "vj975",
+            "flight_icao": "vjc975"
+        }
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia\/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T02:00:00+00:00",
+        "estimated": "2022-11-17T02:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Frankfurt International Airport",
+        "timezone": "Europe\/Berlin",
+        "iata": "FRA",
+        "icao": "EDDF",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T08:00:00+00:00",
+        "estimated": "2022-11-17T08:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Lufthansa",
+        "iata": "LH",
+        "icao": "DLH"
+    },
+    "flight": {
+        "number": "8387",
+        "iata": "LH8387",
+        "icao": "DLH8387",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia\/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T01:50:00+00:00",
+        "estimated": "2022-11-17T01:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Ted Stevens Anchorage International Airport",
+        "timezone": "America\/Anchorage",
+        "iata": "ANC",
+        "icao": "PANC",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-16T15:50:00+00:00",
+        "estimated": "2022-11-16T15:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Qantas",
+        "iata": "QF",
+        "icao": "QFA"
+    },
+    "flight": {
+        "number": "7521",
+        "iata": "QF7521",
+        "icao": "QFA7521",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia\/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T01:50:00+00:00",
+        "estimated": "2022-11-17T01:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Cam Ranh",
+        "timezone": "Asia\/Ho_Chi_Minh",
+        "iata": "CXR",
+        "icao": "VVCR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T05:25:00+00:00",
+        "estimated": "2022-11-17T05:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "VietJet Air",
+        "iata": "VJ",
+        "icao": "VJC"
+    },
+    "flight": {
+        "number": "839",
+        "iata": "VJ839",
+        "icao": "VJC839",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Weihai",
+        "timezone": "Asia\/Shanghai",
+        "iata": "WEH",
+        "icao": "ZSWH",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:15:00+00:00",
+        "estimated": "2022-11-17T00:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia\/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T02:00:00+00:00",
+        "estimated": "2022-11-17T02:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Tianjin Air Cargo",
+        "iata": "HT",
+        "icao": "CTJ"
+    },
+    "flight": {
+        "number": "3809",
+        "iata": "HT3809",
+        "icao": "CTJ3809",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Guangzhou Baiyun International",
+        "timezone": "Asia\/Shanghai",
+        "iata": "CAN",
+        "icao": "ZGGG",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:10:00+00:00",
+        "estimated": "2022-11-17T00:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Noibai International",
+        "timezone": "Asia\/Ho_Chi_Minh",
+        "iata": "HAN",
+        "icao": "VVNB",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T01:20:00+00:00",
+        "estimated": "2022-11-17T01:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "China Southern Airlines",
+        "iata": "CZ",
+        "icao": "CSN"
+    },
+    "flight": {
+        "number": "5023",
+        "iata": "CZ5023",
+        "icao": "CSN5023",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Guangzhou Baiyun International",
+        "timezone": "Asia\/Shanghai",
+        "iata": "CAN",
+        "icao": "ZGGG",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:10:00+00:00",
+        "estimated": "2022-11-17T00:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Suvarnabhumi International",
+        "timezone": "Asia\/Bangkok",
+        "iata": "BKK",
+        "icao": "VTBS",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T02:15:00+00:00",
+        "estimated": "2022-11-17T02:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "China Eastern Airlines",
+        "iata": "MU",
+        "icao": "CES"
+    },
+    "flight": {
+        "number": "2077",
+        "iata": "MU2077",
+        "icao": "CES2077",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Beijing Capital International",
+        "timezone": "Asia\/Shanghai",
+        "iata": "PEK",
+        "icao": "ZBAA",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:35:00+00:00",
+        "estimated": "2022-11-17T00:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Hangzhou",
+        "timezone": "Asia\/Shanghai",
+        "iata": "HGH",
+        "icao": "ZSHC",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T02:55:00+00:00",
+        "estimated": "2022-11-17T02:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "SF Airlines",
+        "iata": "O3",
+        "icao": "CSS"
+    },
+    "flight": {
+        "number": "7107",
+        "iata": "O37107",
+        "icao": "CSS7107",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Beijing Capital International",
+        "timezone": "Asia\/Shanghai",
+        "iata": "PEK",
+        "icao": "ZBAA",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:30:00+00:00",
+        "estimated": "2022-11-17T00:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Wuxi",
+        "timezone": "Asia\/Shanghai",
+        "iata": "WUX",
+        "icao": "ZSWX",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T02:45:00+00:00",
+        "estimated": "2022-11-17T02:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "SF Airlines",
+        "iata": "O3",
+        "icao": "CSS"
+    },
+    "flight": {
+        "number": "6939",
+        "iata": "O36939",
+        "icao": "CSS6939",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Beijing Capital International",
+        "timezone": "Asia\/Shanghai",
+        "iata": "PEK",
+        "icao": "ZBAA",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:40:00+00:00",
+        "estimated": "2022-11-17T00:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Shenzhen",
+        "timezone": "Asia\/Shanghai",
+        "iata": "SZX",
+        "icao": "ZGSZ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T04:20:00+00:00",
+        "estimated": "2022-11-17T04:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "SF Airlines",
+        "iata": "O3",
+        "icao": "CSS"
+    },
+    "flight": {
+        "number": "7105",
+        "iata": "O37105",
+        "icao": "CSS7105",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Kuala Lumpur International Airport (klia)",
+        "timezone": "Asia\/Kuala_Lumpur",
+        "iata": "KUL",
+        "icao": "WMKK",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:20:00+00:00",
+        "estimated": "2022-11-17T00:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Bandaranaike International",
+        "timezone": "Asia\/Colombo",
+        "iata": "CMB",
+        "icao": "VCBI",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T01:15:00+00:00",
+        "estimated": "2022-11-17T01:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "SriLankan Airlines",
+        "iata": "UL",
+        "icao": "ALK"
+    },
+    "flight": {
+        "number": "319",
+        "iata": "UL319",
+        "icao": "ALK319",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Kuala Lumpur International Airport (klia)",
+        "timezone": "Asia\/Kuala_Lumpur",
+        "iata": "KUL",
+        "icao": "WMKK",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:25:00+00:00",
+        "estimated": "2022-11-17T00:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Shenzhen",
+        "timezone": "Asia\/Shanghai",
+        "iata": "SZX",
+        "icao": "ZGSZ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T04:45:00+00:00",
+        "estimated": "2022-11-17T04:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Central Airlines",
+        "iata": "I9",
+        "icao": "HLF"
+    },
+    "flight": {
+        "number": "9808",
+        "iata": "I99808",
+        "icao": "HLF9808",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Kuala Lumpur International Airport (klia)",
+        "timezone": "Asia\/Kuala_Lumpur",
+        "iata": "KUL",
+        "icao": "WMKK",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:30:00+00:00",
+        "estimated": "2022-11-17T00:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Hangzhou",
+        "timezone": "Asia\/Shanghai",
+        "iata": "HGH",
+        "icao": "ZSHC",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T05:45:00+00:00",
+        "estimated": "2022-11-17T05:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "YTO Cargo Airlines",
+        "iata": "YG",
+        "icao": "HYT"
+    },
+    "flight": {
+        "number": "9052",
+        "iata": "YG9052",
+        "icao": "HYT9052",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Kuala Lumpur International Airport (klia)",
+        "timezone": "Asia\/Kuala_Lumpur",
+        "iata": "KUL",
+        "icao": "WMKK",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:35:00+00:00",
+        "estimated": "2022-11-17T00:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Lianshui",
+        "timezone": "Asia\/Shanghai",
+        "iata": "HIA",
+        "icao": "ZSSH",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T05:35:00+00:00",
+        "estimated": "2022-11-17T05:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "YTO Cargo Airlines",
+        "iata": "YG",
+        "icao": "HYT"
+    },
+    "flight": {
+        "number": "9170",
+        "iata": "YG9170",
+        "icao": "HYT9170",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Kuala Lumpur International Airport (klia)",
+        "timezone": "Asia\/Kuala_Lumpur",
+        "iata": "KUL",
+        "icao": "WMKK",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:55:00+00:00",
+        "estimated": "2022-11-17T00:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Kunming",
+        "timezone": "Asia\/Shanghai",
+        "iata": "KMG",
+        "icao": "ZPPP",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T05:40:00+00:00",
+        "estimated": "2022-11-17T05:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "YTO Cargo Airlines",
+        "iata": "YG",
+        "icao": "HYT"
+    },
+    "flight": {
+        "number": "9118",
+        "iata": "YG9118",
+        "icao": "HYT9118",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Wuxi",
+        "timezone": "Asia\/Shanghai",
+        "iata": "WUX",
+        "icao": "ZSWX",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:15:00+00:00",
+        "estimated": "2022-11-17T00:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Shenzhen",
+        "timezone": "Asia\/Shanghai",
+        "iata": "SZX",
+        "icao": "ZGSZ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T03:00:00+00:00",
+        "estimated": "2022-11-17T03:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "SF Airlines",
+        "iata": "O3",
+        "icao": "CSS"
+    },
+    "flight": {
+        "number": "6938",
+        "iata": "O36938",
+        "icao": "CSS6938",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Wuxi",
+        "timezone": "Asia\/Shanghai",
+        "iata": "WUX",
+        "icao": "ZSWX",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:10:00+00:00",
+        "estimated": "2022-11-17T00:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Shenzhen",
+        "timezone": "Asia\/Shanghai",
+        "iata": "SZX",
+        "icao": "ZGSZ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T02:40:00+00:00",
+        "estimated": "2022-11-17T02:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Loong Air",
+        "iata": "GJ",
+        "icao": "CDC"
+    },
+    "flight": {
+        "number": "8710",
+        "iata": "GJ8710",
+        "icao": "CDC8710",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Mactan-Cebu International",
+        "timezone": "Asia\/Manila",
+        "iata": "CEB",
+        "icao": "RPVM",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T01:00:00+00:00",
+        "estimated": "2022-11-17T01:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Shenzhen",
+        "timezone": "Asia\/Shanghai",
+        "iata": "SZX",
+        "icao": "ZGSZ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T04:10:00+00:00",
+        "estimated": "2022-11-17T04:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Central Airlines",
+        "iata": "I9",
+        "icao": "HLF"
+    },
+    "flight": {
+        "number": "9830",
+        "iata": "I99830",
+        "icao": "HLF9830",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Mactan-Cebu International",
+        "timezone": "Asia\/Manila",
+        "iata": "CEB",
+        "icao": "RPVM",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:35:00+00:00",
+        "estimated": "2022-11-17T00:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia\/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T06:00:00+00:00",
+        "estimated": "2022-11-17T06:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Korean Air",
+        "iata": "KE",
+        "icao": "KAL"
+    },
+    "flight": {
+        "number": "616",
+        "iata": "KE616",
+        "icao": "KAL616",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Mactan-Cebu International",
+        "timezone": "Asia\/Manila",
+        "iata": "CEB",
+        "icao": "RPVM",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:10:00+00:00",
+        "estimated": "2022-11-17T00:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Ninoy Aquino International",
+        "timezone": "Asia\/Manila",
+        "iata": "MNL",
+        "icao": "RPLL",
+        "terminal": "3",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T01:40:00+00:00",
+        "estimated": "2022-11-17T01:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Cebu Pacific Air",
+        "iata": "5J",
+        "icao": "CEB"
+    },
+    "flight": {
+        "number": "2502",
+        "iata": "5J2502",
+        "icao": "CEB2502",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Shenzhen",
+        "timezone": "Asia\/Shanghai",
+        "iata": "SZX",
+        "icao": "ZGSZ",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:05:00+00:00",
+        "estimated": "2022-11-17T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Beijing Capital International",
+        "timezone": "Asia\/Shanghai",
+        "iata": "PEK",
+        "icao": "ZBAA",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T03:15:00+00:00",
+        "estimated": "2022-11-17T03:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "SF Airlines",
+        "iata": "O3",
+        "icao": "CSS"
+    },
+    "flight": {
+        "number": "7301",
+        "iata": "O37301",
+        "icao": "CSS7301",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Shenzhen",
+        "timezone": "Asia\/Shanghai",
+        "iata": "SZX",
+        "icao": "ZGSZ",
+        "terminal": null,
+        "gate": null,
+        "delay": 10,
+        "scheduled": "2022-11-17T00:05:00+00:00",
+        "estimated": "2022-11-17T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Los Angeles International",
+        "timezone": "America\/Los_Angeles",
+        "iata": "LAX",
+        "icao": "KLAX",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-16T21:50:00+00:00",
+        "estimated": "2022-11-16T21:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "China Eastern Airlines",
+        "iata": "MU",
+        "icao": "CES"
+    },
+    "flight": {
+        "number": "7331",
+        "iata": "MU7331",
+        "icao": "CES7331",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Darwin",
+        "timezone": "Australia\/Darwin",
+        "iata": "DRW",
+        "icao": "YPDN",
+        "terminal": null,
+        "gate": "4",
+        "delay": null,
+        "scheduled": "2022-11-17T01:00:00+00:00",
+        "estimated": "2022-11-17T01:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Tullamarine",
+        "timezone": "Australia\/Melbourne",
+        "iata": "MEL",
+        "icao": "YMML",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T06:40:00+00:00",
+        "estimated": "2022-11-17T06:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "China Eastern Airlines",
+        "iata": "MU",
+        "icao": "CES"
+    },
+    "flight": {
+        "number": "4216",
+        "iata": "MU4216",
+        "icao": "CES4216",
+        "codeshared": {
+            "airline_name": "qantas",
+            "airline_iata": "qf",
+            "airline_icao": "qfa",
+            "flight_number": "839",
+            "flight_iata": "qf839",
+            "flight_icao": "qfa839"
+        }
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Darwin",
+        "timezone": "Australia\/Darwin",
+        "iata": "DRW",
+        "icao": "YPDN",
+        "terminal": null,
+        "gate": "4",
+        "delay": null,
+        "scheduled": "2022-11-17T01:00:00+00:00",
+        "estimated": "2022-11-17T01:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Tullamarine",
+        "timezone": "Australia\/Melbourne",
+        "iata": "MEL",
+        "icao": "YMML",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T06:40:00+00:00",
+        "estimated": "2022-11-17T06:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Air New Zealand",
+        "iata": "NZ",
+        "icao": "ANZ"
+    },
+    "flight": {
+        "number": "7839",
+        "iata": "NZ7839",
+        "icao": "ANZ7839",
+        "codeshared": {
+            "airline_name": "qantas",
+            "airline_iata": "qf",
+            "airline_icao": "qfa",
+            "flight_number": "839",
+            "flight_iata": "qf839",
+            "flight_icao": "qfa839"
+        }
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Darwin",
+        "timezone": "Australia\/Darwin",
+        "iata": "DRW",
+        "icao": "YPDN",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:50:00+00:00",
+        "estimated": "2022-11-17T00:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Kingsford Smith",
+        "timezone": "Australia\/Sydney",
+        "iata": "SYD",
+        "icao": "YSSY",
+        "terminal": "2",
+        "gate": "41",
+        "baggage": "D3",
+        "delay": null,
+        "scheduled": "2022-11-17T07:00:00+00:00",
+        "estimated": "2022-11-17T07:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Virgin Australia",
+        "iata": "VA",
+        "icao": "VOZ"
+    },
+    "flight": {
+        "number": "1348",
+        "iata": "VA1348",
+        "icao": "VOZ1348",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Penang International",
+        "timezone": "Asia\/Kuala_Lumpur",
+        "iata": "PEN",
+        "icao": "WMKP",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:15:00+00:00",
+        "estimated": "2022-11-17T00:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Singapore Changi",
+        "timezone": "Asia\/Singapore",
+        "iata": "SIN",
+        "icao": "WSSS",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T01:45:00+00:00",
+        "estimated": "2022-11-17T01:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "MY Jet Xpress Airlines",
+        "iata": "N7",
+        "icao": "NEP"
+    },
+    "flight": {
+        "number": "221",
+        "iata": "N7221",
+        "icao": "NEP221",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Dunedin International",
+        "timezone": "Pacific\/Auckland",
+        "iata": "DUD",
+        "icao": "NZDN",
+        "terminal": null,
+        "gate": "8",
+        "delay": null,
+        "scheduled": "2022-11-17T06:05:00+00:00",
+        "estimated": "2022-11-17T06:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Christchurch International",
+        "timezone": "Pacific\/Auckland",
+        "iata": "CHC",
+        "icao": "NZCH",
+        "terminal": null,
+        "gate": "D12",
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T07:05:00+00:00",
+        "estimated": "2022-11-17T07:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Etihad Airways",
+        "iata": "EY",
+        "icao": "ETD"
+    },
+    "flight": {
+        "number": "4593",
+        "iata": "EY4593",
+        "icao": "ETD4593",
+        "codeshared": {
+            "airline_name": "air new zealand",
+            "airline_iata": "nz",
+            "airline_icao": "anz",
+            "flight_number": "5756",
+            "flight_iata": "nz5756",
+            "flight_icao": "anz5756"
+        }
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia\/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T01:50:00+00:00",
+        "estimated": "2022-11-17T01:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Cam Ranh",
+        "timezone": "Asia\/Ho_Chi_Minh",
+        "iata": "CXR",
+        "icao": "VVCR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T05:25:00+00:00",
+        "estimated": "2022-11-17T05:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": null,
+        "iata": "H1",
+        "icao": "H1"
+    },
+    "flight": {
+        "number": "4504",
+        "iata": "H14504",
+        "icao": "H14504",
+        "codeshared": {
+            "airline_name": "vietjet air",
+            "airline_iata": "vj",
+            "airline_icao": "vjc",
+            "flight_number": "839",
+            "flight_iata": "vj839",
+            "flight_icao": "vjc839"
+        }
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia\/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T01:50:00+00:00",
+        "estimated": "2022-11-17T01:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Cam Ranh",
+        "timezone": "Asia\/Ho_Chi_Minh",
+        "iata": "CXR",
+        "icao": "VVCR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T05:25:00+00:00",
+        "estimated": "2022-11-17T05:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "FlexFlight",
+        "iata": "W2",
+        "icao": "FXT"
+    },
+    "flight": {
+        "number": "4839",
+        "iata": "W24839",
+        "icao": "FXT4839",
+        "codeshared": {
+            "airline_name": "vietjet air",
+            "airline_iata": "vj",
+            "airline_icao": "vjc",
+            "flight_number": "839",
+            "flight_iata": "vj839",
+            "flight_icao": "vjc839"
+        }
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia\/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T01:50:00+00:00",
+        "estimated": "2022-11-17T01:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Cam Ranh",
+        "timezone": "Asia\/Ho_Chi_Minh",
+        "iata": "CXR",
+        "icao": "VVCR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T05:25:00+00:00",
+        "estimated": "2022-11-17T05:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": null,
+        "iata": "A1",
+        "icao": "A1"
+    },
+    "flight": {
+        "number": "2839",
+        "iata": "A12839",
+        "icao": "A12839",
+        "codeshared": {
+            "airline_name": "vietjet air",
+            "airline_iata": "vj",
+            "airline_icao": "vjc",
+            "flight_number": "839",
+            "flight_iata": "vj839",
+            "flight_icao": "vjc839"
+        }
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Changsha",
+        "timezone": "Asia\/Shanghai",
+        "iata": "CSX",
+        "icao": "ZGHA",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:05:00+00:00",
+        "estimated": "2022-11-17T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Hangzhou",
+        "timezone": "Asia\/Shanghai",
+        "iata": "HGH",
+        "icao": "ZSHC",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T01:35:00+00:00",
+        "estimated": "2022-11-17T01:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "SF Airlines",
+        "iata": "O3",
+        "icao": "CSS"
+    },
+    "flight": {
+        "number": "7381",
+        "iata": "O37381",
+        "icao": "CSS7381",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Zhengzhou",
+        "timezone": "Asia\/Shanghai",
+        "iata": "CGO",
+        "icao": "ZHCC",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:05:00+00:00",
+        "estimated": "2022-11-17T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Shenzhen",
+        "timezone": "Asia\/Shanghai",
+        "iata": "SZX",
+        "icao": "ZGSZ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T02:45:00+00:00",
+        "estimated": "2022-11-17T02:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "SF Airlines",
+        "iata": "O3",
+        "icao": "CSS"
+    },
+    "flight": {
+        "number": "7320",
+        "iata": "O37320",
+        "icao": "CSS7320",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Kunming",
+        "timezone": "Asia\/Shanghai",
+        "iata": "KMG",
+        "icao": "ZPPP",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:05:00+00:00",
+        "estimated": "2022-11-17T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Hangzhou",
+        "timezone": "Asia\/Shanghai",
+        "iata": "HGH",
+        "icao": "ZSHC",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T02:50:00+00:00",
+        "estimated": "2022-11-17T02:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "SF Airlines",
+        "iata": "O3",
+        "icao": "CSS"
+    },
+    "flight": {
+        "number": "7041",
+        "iata": "O37041",
+        "icao": "CSS7041",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Fuzhou",
+        "timezone": "Asia\/Shanghai",
+        "iata": "FOC",
+        "icao": "ZSFZ",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:05:00+00:00",
+        "estimated": "2022-11-17T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Ninoy Aquino International",
+        "timezone": "Asia\/Manila",
+        "iata": "MNL",
+        "icao": "RPLL",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T02:35:00+00:00",
+        "estimated": "2022-11-17T02:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "Central Airlines",
+        "iata": "I9",
+        "icao": "HLF"
+    },
+    "flight": {
+        "number": "9805",
+        "iata": "I99805",
+        "icao": "HLF9805",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+},
+{
+    "flight_date": "2022-11-17",
+    "flight_status": "scheduled",
+    "departure": {
+        "airport": "Taiwan Taoyuan International (Chiang Kai Shek International)",
+        "timezone": "Asia\/Taipei",
+        "iata": "TPE",
+        "icao": "RCTP",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-11-17T00:45:00+00:00",
+        "estimated": "2022-11-17T00:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "arrival": {
+        "airport": "Auckland International",
+        "timezone": "Pacific\/Auckland",
+        "iata": "AKL",
+        "icao": "NZAA",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-11-17T16:30:00+00:00",
+        "estimated": "2022-11-17T16:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+    },
+    "airline": {
+        "name": "China Airlines",
+        "iata": "CI",
+        "icao": "CAL"
+    },
+    "flight": {
+        "number": "59",
+        "iata": "CI59",
+        "icao": "CAL59",
+        "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+}]

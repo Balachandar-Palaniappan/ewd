@@ -1,0 +1,25 @@
+# Agent Related Configurations
+server:
+  error:
+    include-stacktrace: never
+  servlet:
+    context-path: /flightsts
+  port: 8092
+springdoc: 
+  api-docs:
+    enabled: true
+    path: /v3/api-docs
+  swagger-ui.path: /swagger-ui.html
+  swagger-ui.tagsSorter: alpha  
+  swagger-ui.operationsSorter: method
+  swagger-ui.disable-swagger-default-url: false
+  packagesToScan: com.ewd.flightstatus.controller
+  pathsToMatch: /v1/**, /api/**
+  version: v1
+spring: 
+  application:
+    name: "Flight Status Service"
+  cache:
+    jcache:
+      provider: org.ehcache.jsr107.EhcacheCachingProvider
+      config: classpath:ehcache.xml
